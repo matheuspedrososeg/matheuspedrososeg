@@ -9,7 +9,7 @@ Hi 👋! My name is Matheus and I'm a Java Trainee</h7>
 
 <h3 align="left">🛠 Language and tools</h3>
 
-<div align="center"style="margin-bottom:  45px;">
+<div align="center">
     <img alt="Java" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" />
   <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
@@ -37,7 +37,7 @@ Hi 👋! My name is Matheus and I'm a Java Trainee</h7>
 
 
 
-<div align="center">
+<div align="center" style="margin-top: 45px;">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuspedrososeg&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
