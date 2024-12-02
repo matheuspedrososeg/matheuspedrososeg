@@ -1,4 +1,4 @@
-Olá! Meu nome é Matheus, sou assistente em Desenvolvimento de Software utilizando Java, SpringBoot, JUnit, PostgreSQL e demais frameworks. Atualmente estou aprendendo HTML e CSS, e com ambição para aprender mais!</h7>
+Olá! Meu nome é Matheus, sou assistente em Desenvolvimento de Software utilizando Java.</h7>
 
 
 <picture>
