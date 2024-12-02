@@ -68,30 +68,10 @@ Hi 👋! My name is Matheus and I'm a Java Trainee</h7>
 <p align="center">
   <a href="mailto:pedrosom482@gmail.com" target="_blank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mail" height="50" width="55" />
-
-
-<div align="center">
-    
-<a href="https://www.instagram.com/_thiagohenrique?igsh=MW1yOTZ5cGE5NWhwaw%3D%3D&utm_source=qr">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-</a>
 </div>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<!--
-**matheuspedrososeg/matheuspedrososeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
