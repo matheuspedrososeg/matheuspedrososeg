@@ -8,17 +8,18 @@ Olá! Meu nome é Matheus, sou assistente em Desenvolvimento de Software utiliza
 </picture>
 
 <h3 align="left">🛠 Language and tools</h3>
-
 <div align="center">
     <img alt="Java" width="45" height="45" src="https://camo.githubusercontent.com/9e02c0426b198d80f933ea32f92142c36ce703345e524caa6c7f38fa338aaf9f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661" />
   <img width="12" />
       <img src="https://camo.githubusercontent.com/4df67d15137e3249dea2f205c17bec1a431cde357ee2a036e707264efec4fc99/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d69646561" height="40" alt="intellij logo"  />
+      <img width="12" />
+      <img src="https://camo.githubusercontent.com/3083bb2a86bf87e14fd25feb6fa77f609c4ae32d0d50fe87610b4fd612a038cf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" height="40" alt="maven logo" />
   <img width="12" />
     <img src="https://miro.medium.com/v2/resize:fit:450/1*kbSGIVukG6lL7JtAa9wiDA.png" height="40" alt="maven logo" />
     <img width="12" />
       <img alt="PostgreSQL" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" />
   <img width="12" />
-     <img alt="MySQL" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" />
+     <img alt="MySQL" width="45" height="45" src="https://camo.githubusercontent.com/8f3f7c6f760a14060b33e90190faa902bcc4871373ec7ef0451c183a54d6490a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d7973716c" />
   <img width="12" />
     <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="40" alt="junit logo" />
    <img width="12" />
@@ -26,7 +27,7 @@ Olá! Meu nome é Matheus, sou assistente em Desenvolvimento de Software utiliza
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
     <img width="12" />
-   <img alt="Git" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" />
+   <img alt="Git" width="45" height="45" src="https://camo.githubusercontent.com/dbe4ba9617b5f2b9c3c12682ab9b2c687078af1cd25a2f545461157d8e1e7401/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562" />
   <img width="12" />
   <img src="https://camo.githubusercontent.com/49179b69f7956cc4b5e5e7987d011103b7e3ffc20c55ca4a43c8ff214c3b6796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -36,7 +37,6 @@ Olá! Meu nome é Matheus, sou assistente em Desenvolvimento de Software utiliza
   
   <img src="https://camo.githubusercontent.com/9de3a0e52bb32397d435c3cd0396f81235fba55ec7bccf5b8202aa1b551e89bf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e7578" height="40" alt="linux logo"  />
 <div
-
 
 <div align="center" style="margin-top: 45px;">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuspedrososeg&layout=compact&langs_count=7&theme=dark"/>
