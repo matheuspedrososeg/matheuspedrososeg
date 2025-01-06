@@ -33,7 +33,6 @@ Olá! Meu nome é Matheus, sou assistente em Desenvolvimento de Software utiliza
   <img width="12" />
   <img src="https://camo.githubusercontent.com/a266b2536a9f4e1b8dc325ca89d9ce8e7f323c1e140f8b830a42f474a56e3b4c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/16edff857d92b7794d5f4241aa88b9db4463d06eb52b38624a5fe1cad1584e53/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" alt="">
   
   <img src="https://camo.githubusercontent.com/9de3a0e52bb32397d435c3cd0396f81235fba55ec7bccf5b8202aa1b551e89bf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e7578" height="40" alt="linux logo"  />
 <div
