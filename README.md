@@ -37,7 +37,7 @@ Olá! Meu nome é Matheus, sou assistente em Desenvolvimento de Software utiliza
   <img src="https://camo.githubusercontent.com/9de3a0e52bb32397d435c3cd0396f81235fba55ec7bccf5b8202aa1b551e89bf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e7578" height="40" alt="linux logo"  />
 <div
 
-<div align="center" style="margin-top: 45px;">
+<div align="left" style="margin-top: 90px;">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuspedrososeg&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
