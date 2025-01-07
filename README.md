@@ -42,36 +42,4 @@ Olá! Meu nome é Matheus, sou assistente em Desenvolvimento de Software utiliza
 </div>
 
 
-<h3 align="left">🚀Commits</h3>
- 
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheuspedrososeg&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matheuspedrososeg&theme=highcontrast)
-
-<h3 align="left">📈 My GitHub Stats:</h3>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheuspedrososeg&theme=highcontrast)
-
-<h3 align="left">🎯 Streak:</h3>
-
- <img align="center"   width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuspedrososeg&theme=highcontrast&hide_border=true" alt="gauravkesh" />
-
-<h3 align="left">📱 My contact :</h3>
-<div align="center">
-<img src="https://streak-stats.demolab.com?
-</div>
-    
-<p align="center">
-  <a href="mailto:pedrosom482@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mail" height="50" width="55" />
-</div>
-
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
 
